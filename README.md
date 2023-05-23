@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack developer from Leyton</h3>
 
-- 🔭 I’m currently working on [whatcanieat](www.whatcanieat.world)
+- 🔭 I’m currently working on [whatcanieat](http://www.whatcanieat.world)
 
 - 🌱 I’m currently learning **React & Python**
 
