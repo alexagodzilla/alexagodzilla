@@ -1,8 +1,8 @@
-### Hi there 👋
+### Ciao 👋
 
-<h3 align="center">A passionate full stack developer from London</h3>
+<h3 align="center">A passionate full stack developer from Leyton</h3>
 
-- 🔭 I’m currently working on [whatcanieat](whatcanieat.world)
+- 🔭 I’m currently working on [whatcanieat]([whatcanieat.world](http://www.whatcanieat.world/))
 
 - 🌱 I’m currently learning **React and Python**
 
