@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [whatcanieat](www.whatcanieat.world)
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **React & Python**
 
 - 📫 How to reach me **alexagozzino@gmail.com**
 
