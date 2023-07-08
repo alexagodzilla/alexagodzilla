@@ -1,6 +1,6 @@
 # Ciao 👋
 
-<h3 align="center">I am an Italian proud nerd, passionate about technology, work as a Specialist @ Apple and recently graduated as a Full Stack Software Developer from Le Wagon Coding Bootcamp in London </h3>
+<h3 align="center">I am an Italian proud nerd, passionate about technology, work as a Specialist @ Apple 🍎 and recently graduated as a Full Stack Software Developer from Le Wagon Coding Bootcamp in London </h3>
 
 - 🔭 I’m currently working on [whatcanieat](http://www.whatcanieat.world)
 
