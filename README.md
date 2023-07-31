@@ -11,6 +11,8 @@
 - 📫 How to reach me **alexagozzino@gmail.com**
 
 - ⚡ Fun fact **I love Lego and dogs**
+  
+-  🩹 Code Warrior  <img src="https://www.codewars.com/users/Agodzilla/badges/small" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
