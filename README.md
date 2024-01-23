@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **alexagozzino@gmail.com**
+- 📫 How to reach me **alex.agozzino.dev@proton.me**
 
 - ⚡ Fun fact **I love Lego and dogs**
   
